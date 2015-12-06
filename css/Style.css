@@ -11,7 +11,7 @@ body {
 		background-color: white;
 		background-color: rgba(255,255,250,0.5);
 		width: 200
-		margin: 0 auto;
+		margin: 10;
 		padding: 30px;
 		border-radius: 30px;
 		box-shadow: 10px 10px 10px 0px rgba(45,56,51,0.8) ;
